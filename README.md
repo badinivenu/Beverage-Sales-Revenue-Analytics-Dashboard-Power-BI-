@@ -1,11 +1,11 @@
-# 🥤 Beverage Sales & Revenue Analytics Dashboard | Power BI
+# Beverage Sales & Revenue Analytics Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 The **Beverage Sales & Revenue Analytics Dashboard** is an interactive Power BI project designed to analyze beverage sales performance, revenue trends, product performance, customer segmentation, and regional distribution.
 
 The dashboard provides business insights into sales across different beverage categories, products, regions, and customer types (B2B and B2C). It helps identify top-performing products, high-revenue categories, customer purchasing patterns, and monthly revenue trends to support data-driven business decisions.
 
-## 🎯 Business Objectives
+##  Business Objectives
 - Analyze overall sales and revenue performance.
 - Identify top-performing beverage categories and products.
 - Compare B2B and B2C customer performance.
@@ -13,14 +13,14 @@ The dashboard provides business insights into sales across different beverage ca
 - Track monthly revenue trends and fluctuations.
 - Understand sales distribution across beverage products.
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 - **Total Revenue:** 1.18 Billion
 - **Total Orders:** 3 Million
 - **Total Customers:** 10K
 - **Total Quantity Sold:** 208 Million
 - **Average Order Value:** 392
 
-## 📈 Dashboard Insights
+## Dashboard Insights
 
 ### 1. Revenue Analysis
 - Track monthly revenue performance.
@@ -53,7 +53,7 @@ The dashboard provides business insights into sales across different beverage ca
 - **DAX** – KPI calculations and business metrics
 - **Data Modeling** – Organizing data for interactive analysis
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset contains beverage sales transaction records with the following fields:
 
 - Order_ID
@@ -68,11 +68,11 @@ The dataset contains beverage sales transaction records with the following field
 - Region
 - Order_Date
 
-## 💡 Business Value
+## Business Value
 This dashboard helps business stakeholders monitor sales performance, evaluate product profitability opportunities, understand customer segments, and identify regional revenue patterns.
 
 It demonstrates how interactive business intelligence dashboards can transform raw sales transaction data into meaningful insights for strategic decision-making.
 
-## 👨‍💻 Project Type
+## Project Type
 **Business Intelligence | Sales Analytics | Data Visualization | Power BI**
 
